@@ -1,0 +1,9 @@
+*.o
+*.cu_o
+outtxt/*
+files/*
+*.txt
+.Rhistory
+*~
+
+
